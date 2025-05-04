@@ -119,9 +119,9 @@ I used Amazon Q Developer to:
 Troubleshooting
 
 Common Issues
-- "Amazon Q Developer CLI not found"**: Make sure you have installed Amazon Q Developer CLI correctly and it's available in your PATH
-- "Not a directory"**: The provided path is not a valid directory
-- Permission errors**: Make sure you have proper permissions to access the directory
+- "Amazon Q Developer CLI not found": Make sure you have installed Amazon Q Developer CLI correctly and it's available in your PATH
+- "Not a directory": The provided path is not a valid directory
+- Permission errors: Make sure you have proper permissions to access the directory
 
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
