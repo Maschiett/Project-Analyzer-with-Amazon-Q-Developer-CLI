@@ -1,0 +1,2 @@
+# This project requires Amazon Q Developer CLI to be installed separately
+# No additional Python packages are required as we use built-in modules 
