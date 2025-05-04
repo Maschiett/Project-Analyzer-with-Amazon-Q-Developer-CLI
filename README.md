@@ -1,10 +1,10 @@
-Project Analyzer with Amazon Q Developer
+# Project Analyzer with Amazon Q Developer
 
 A command-line tool that helps developers analyze their projects using Amazon Q Developer.
 
-![Project Analyzer Demo](https://your-image-link-here.png)
+[Project Analyzer Demo](hhttps://imgur.com/a/p1fJRCk)
 
-Features
+## Features
 - Analyzes any project directory using Amazon Q Developer
 - Provides detailed analysis reports with colored output
 - Exports results to a file
@@ -18,10 +18,10 @@ Prerequisites
 1. Make sure you have Python 3.x installed
 2. Install Amazon Q Developer CLI by following the [official guide](https://docs.aws.amazon.com/amazonq/latest/qdev-ug/what-is-q-developer.html)
 
-Steps
+### Steps
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/project-analyzer.git
+git clone https://github.com/Maschiett/Project-Analyzer-with-Amazon-Q-Developer-CLI/.git
 cd project-analyzer
 ```
 
