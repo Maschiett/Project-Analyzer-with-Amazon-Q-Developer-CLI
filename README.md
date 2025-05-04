@@ -2,7 +2,7 @@
 
 A command-line tool that helps developers analyze their projects using Amazon Q Developer.
 
-[Project Analyzer Demo](hhttps://imgur.com/a/p1fJRCk)
+![Project Analyzer Demo](hhttps://imgur.com/a/p1fJRCk)
 
 ## Features
 - Analyzes any project directory using Amazon Q Developer
